@@ -8,6 +8,11 @@ https://mental--health--chatbot.streamlit.app/
 
 ---
 
+## 🖼️ App Preview
+
+![App Interface](assets/preview.png)
+
+
 ## ✨ Features
 
 - Empathetic AI Chat – LLaMA 3.1 responds with supportive and caring replies  
@@ -17,7 +22,7 @@ https://mental--health--chatbot.streamlit.app/
 - Mood Tracker – Visualizes emotional trends over time  
 - Coping Tips – Personalized wellness suggestions  
 - Crisis Detection – Detects high-risk phrases and shows emergency resources  
-- Privacy First – Messages stored only during session  
+- Privacy First – Messages stored only during session and never saved permanently.
 
 ---
 
@@ -28,7 +33,7 @@ https://mental--health--chatbot.streamlit.app/
 - Sentiment: TextBlob  
 - Visualization: Matplotlib  
 - Backend: Python  
-- Deployment: Streamlit Cloud  
+- Deployment: Streamlit Community Cloud  
 
 ---
 
@@ -76,3 +81,10 @@ http://localhost:8501
 Anshika Jain
 
 GitHub: https://github.com/AnshikaJain-code 
+
+## ⚠️ Disclaimer
+
+This project is created for **educational and demonstration purposes only**.  
+It is **not a substitute for professional medical or psychological treatment**.  
+If you are facing severe mental health issues, please contact a licensed professional.
+
