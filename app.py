@@ -120,9 +120,6 @@ Track your emotional trend over time.
 🧘 **Therapy Modes**  
 Empathetic Chat • Healing Tips • Breathing • Motivation
 
-📥 **Download Report**  
-Export your mood summary as PDF / CSV.
-
 🔒 **Privacy Notice**  
 Messages are stored only during this session.
 They are never saved permanently.
