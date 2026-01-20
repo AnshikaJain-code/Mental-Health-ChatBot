@@ -39,3 +39,39 @@ https://mental--health--chatbot.streamlit.app/
 ```bash
 git clone https://github.com/AnshikaJain-code/Mental-Health-ChatBot.git
 cd Mental-Health-ChatBot
+```
+
+### 2. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Add inside:
+
+```bash
+HF_TOKEN = "your_huggingface_access_token"
+```
+
+### 4. Run the app
+
+```bash
+streamlit run app.py
+```
+
+App runs at:
+
+```bash
+http://localhost:8501
+```
+
+## 🔐 HuggingFace Token Setup
+  1. Create account at https://huggingface.co
+  2. Settings → Access Tokens
+  3. Generate token with Inference permission
+  4. Paste in .streamlit/secrets.toml
+
+## 👩‍💻 Author
+
+Anshika Jain
+GitHub: https://github.com/AnshikaJain-code 
