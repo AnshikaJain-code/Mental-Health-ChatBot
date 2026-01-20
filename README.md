@@ -87,4 +87,3 @@ GitHub: https://github.com/AnshikaJain-code
 This project is created for **educational and demonstration purposes only**.  
 It is **not a substitute for professional medical or psychological treatment**.  
 If you are facing severe mental health issues, please contact a licensed professional.
-
